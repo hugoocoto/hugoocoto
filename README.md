@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hugo Coto</h1>
 
-<img src="https://raw.githubusercontent.com/hugocotoflorez/hugocotoflorez/main/Black Modern Vlogger YouTube Banner.png" align="center" alt="Hugo Coto header image">
+<img src="https://raw.githubusercontent.com/hugocotoflorez/hugocotoflorez/images/Black Modern Vlogger YouTube Banner (1).jpg" align="center" alt="Hugo Coto header image">
 
 -------------------
 &emsp;
@@ -13,6 +13,7 @@
 - 🔭 I’m currently studying Informatics Engineering at University of Vigo. 
 - 📚 I'm also programming by miself.
 - 🌱 I’m currently learning **C/C++ and advanced Python**
+- 🌍 I’m from **Spain**
 
 - 💬 Ask me about **Python stuff**
 
