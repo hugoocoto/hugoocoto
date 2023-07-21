@@ -26,11 +26,10 @@
 &emsp;
 <a href="https://www.instagram.com/hugoocoto/">
     ![Instagram: hugoocoto](https://img.shields.io/badge/-hugoocoto-000?&logo=Instagram)
-
-<a href="https://[https://www.youtube.com/channel/UCEN4ag83nsQcMqt9Er5gyCw]">
-    ![Youtube: @hugoocotoflorez](https://img.shields.io/badge/-hugoocoto-000?&logo=Youtube)
 </a>
-
+<a href="[https://www.youtube.com/channel/UCEN4ag83nsQcMqt9Er5gyCw]">
+    ![Youtube: @hugoocotoflorez](https://img.shields.io/badge/-Hugo_Coto-000?&logo=Youtube)
+</a>
 <a href="https://github.com/hugocotoflorez">
     ![GitHub: hugocotoflorez](https://img.shields.io/github/followers/hugocotoflorez?label=follow&style=social)
 </a>
