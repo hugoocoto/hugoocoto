@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hugo Coto</h1>
 
-<!--<img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image">-->
+<img src="https://raw.githubusercontent.com/hugocotoflorez/hugocotoflorez/main/header.png" align="center" alt="Hugo Coto header image">
 
 -------------------
 &emsp;
