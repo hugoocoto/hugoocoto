@@ -25,18 +25,22 @@
 &emsp;
 <a href="https://www.instagram.com/hugoocoto/">
     ![Instagram: hugoocoto](https://img.shields.io/badge/-hugoocoto-000?&logo=Instagram)
+
+<a href="https://[https://www.youtube.com/channel/UCEN4ag83nsQcMqt9Er5gyCw]">
+    ![Youtube: @hugoocotoflorez](https://img.shields.io/badge/-hugoocoto-000?&logo=Youtube)
 </a>
+
 <a href="https://github.com/hugocotoflorez">
-    ![GitHub: berkeli](https://img.shields.io/github/followers/hugocotoflorez?label=follow&style=social)
+    ![GitHub: hugocotoflorez](https://img.shields.io/github/followers/hugocotoflorez?label=follow&style=social)
 </a>
 <a href="[https://stackoverflow.com/users/19060347/hugo-coto]">
-    ![StackOverflow: berkeli](https://img.shields.io/stackexchange/stackoverflow/r/19060347?style=social)
+    ![StackOverflow: hugo coto](https://img.shields.io/stackexchange/stackoverflow/r/19060347?style=social)
 </a>
 <a href="https://www.codewars.com/users/hugoocf">
-    ![CodeWars: BerkeliH](https://www.codewars.com/users/hugoocf/badges/small)
+    ![CodeWars: hugoocf](https://www.codewars.com/users/hugoocf/badges/small)
 </a>
 <a href="https://www.leetcode.com/hugoocoto/">
-    ![LeetCode: berkeli](https://img.shields.io/badge/-hugoocoto-000?&logo=LeetCode)
+    ![LeetCode: hugoocoto](https://img.shields.io/badge/-hugoocoto-000?&logo=LeetCode)
 </a>
 
 &emsp;
