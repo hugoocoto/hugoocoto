@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hugo Coto</h1>
+
 
 <img src="https://raw.githubusercontent.com/hugocotoflorez/hugocotoflorez/main/backgroundim.jpg" align="center" alt="Hugo Coto header image">
 
