@@ -10,10 +10,9 @@
 -------------------
 &emsp;
 
-- 🔭 I’m currently studying Informatics Engineering at University of Santiago, Spain. 
+- 🔭 I’m currently studying Informatics Engineering at USC, Spain. 
 - 📚 I'm also programming by miself.
 - 🌱 I’m currently learning **C/C++ and advanced Python**
-- 🌍 I’m from **Spain**
 
 - 💬 Ask me about **Python stuff**
 
