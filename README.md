@@ -1,6 +1,6 @@
 
 
-<img src="https://raw.githubusercontent.com/hugocotoflorez/hugocotoflorez/main/backgroundim.jpg" align="center" alt="Hugo Coto header image">
+<img src="https://raw.githubusercontent.com/hugocotoflorez/hugocotoflorez/main/" align="center" alt="Hugo Coto header image">
 
 -------------------
 &emsp;
