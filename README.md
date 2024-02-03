@@ -57,6 +57,8 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
+![Vim](https://img.shields.io/badge/-Vim-000?&logo=Vim)
+![Nvim](https://img.shields.io/badge/-Neovim-000?&logo=Neovim)
 
 
 ### Databases:
