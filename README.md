@@ -1,20 +1,12 @@
 
 
-<img src="https://raw.githubusercontent.com/hugocotoflorez/hugocotoflorez/main/" align="center" alt="Hugo Coto header image">
-
--------------------
-&emsp;
-<h3 align="left">Hi 👋, I'm Hugo Coto, programming enthusiast.</h3>
-&emsp;
+<img src="https://raw.githubusercontent.com/hugocotoflorez/hugocotoflorez/main/Black Modern Vlogger YouTube Banner.png" align="center" alt="Hugo Coto header image">
 
 -------------------
 &emsp;
 
-- 🔭 I’m currently studying Informatics Engineering at USC, Spain. 
-- 📚 I'm also programming by myself.
-- 🌱 I’m currently learning **C/C++ and advanced Python**
-
-- 💬 Ask me about **Python stuff**
+- 🔭 I’m studying Informatics Engineering at USC, Spain. 
+- 🌱 I’m learning **C and lowlevel stuff
 
 &emsp;
 
