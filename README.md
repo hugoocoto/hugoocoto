@@ -19,7 +19,7 @@
     ![Instagram: hugoocoto](https://img.shields.io/badge/-hugoocoto-000?&logo=Instagram)
 </a>
 <a href="https://www.youtube.com/channel/UCEN4ag83nsQcMqt9Er5gyCw">
-    ![Youtube: @hugoocotoflorez](https://img.shields.io/badge/-Hugo_Coto-000?&logo=Youtube)
+    ![Youtube: @HUGOCatNVIM](https://img.shields.io/badge/-Hugo_Coto-000?&logo=Youtube)
 </a>
 <a href="https://github.com/hugocotoflorez">
     ![GitHub: hugocotoflorez](https://img.shields.io/github/followers/hugocotoflorez?label=follow&style=social)
