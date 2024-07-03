@@ -67,14 +67,14 @@
 
 ## My GitHub Stats and Activity
 &emsp;
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hugocotoflorez&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hugocotoflorez&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugocotoflorez&layout=compact&theme=dark&show_icons=true)
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hugocotoflorez&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hugocotoflorez&layout=compact&theme=dark&show_icons=true)
 
 ## Take a look
 &emsp;
-[![Tetris](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=tetris&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/tetris)
-[![WorseVi](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=worsevi&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/worsevi)
+![Tetris](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=tetris&theme=dark&show_icons=true)
+![WorseVi](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=worsevi&theme=dark&show_icons=true)
 
 
 
