@@ -76,5 +76,8 @@
 ![Tetris](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=tetris&theme=dark&show_icons=true)
 ![WorseVi](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=worsevi&theme=dark&show_icons=true)
 
+## My dotfiles
+&emsp;
+![Dotfiles](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=dotfiles&theme=dark&show_icons=true)
 
 
