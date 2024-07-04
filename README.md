@@ -73,11 +73,11 @@
 
 ## Take a look
 &emsp;
-![![Tetris](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=tetris&theme=dark&show_icons=true)](github.com/hugocotoflorez/tetris)
-![![WorseVi](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=worsevi&theme=dark&show_icons=true)](github.com/hugocotoflorez/tetris)
+![[Tetris](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=tetris&theme=dark&show_icons=true)](github.com/hugocotoflorez/tetris)
+![[WorseVi](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=worsevi&theme=dark&show_icons=true)](github.com/hugocotoflorez/tetris)
 
 ## My dotfiles
 &emsp;
-![![Dotfiles](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=dotfiles&theme=dark&show_icons=true)](github.com/hugocotoflorez/dotfiles)
+![[Dotfiles](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=dotfiles&theme=dark&show_icons=true)](github.com/hugocotoflorez/dotfiles)
 
 
