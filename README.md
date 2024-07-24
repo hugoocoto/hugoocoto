@@ -11,9 +11,7 @@
 
 &emsp;
 
-## Me around the web:
--------------------
-
+### Me around the web
 &emsp;
 <a href="https://www.instagram.com/hugoocoto/">
     ![Instagram: hugoocoto](https://img.shields.io/badge/-hugoocoto-000?&logo=Instagram)
@@ -33,23 +31,28 @@
 
 &emsp;
 
-## 🛠️ My Skills
--------------------
+### Trophies
+&emsp;
+[![trophy](https://github-profile-trophy.vercel.app/?username=hugocotoflorez)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Operating system
+&emsp;
+
+### My Skills
+
+#### Operating system
 &emsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Alacritty](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)
 
-### Programming languages
+#### Programming languages
 &emsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Misc tools
+#### Misc tools
 &emsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -57,7 +60,7 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![Nvim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
-### Others
+#### Others
 &emsp;
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -65,37 +68,37 @@
 
 &emsp;
 
-## My GitHub Stats
+### My GitHub Stats
 &emsp;
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hugocotoflorez&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugocotoflorez&layout=compact&theme=dark&show_icons=true)
 
-## My current activity
+### My current activity
 &emsp;
 <img src="https://wakatime.com/share/@2a7b4567-ab1f-4fb2-98ff-2b3fdbf94654/80f8cb69-7023-40c8-81b3-9a6520a586c5.png" alt="Wakatime" width=40%>
 <img src="https://wakatime.com/share/@2a7b4567-ab1f-4fb2-98ff-2b3fdbf94654/043f3a8a-8e7f-4226-9d55-a3795c7329ec.svg" alt="Wakatime" width=40%>
 
-## Take a look
+### Take a look
 &emsp;
 [![Tetris](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=tetris&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/tetris)
 [![Memory allocator](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=hallocator&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/hallocator)
 
-## Some intresting proyects
+### Some intresting proyects
 &emsp;
 [![Terminal colors and styles](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=termstuff&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/termstuff)
 [![Fetching tool](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=hfetch&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/hfetch)
 
-## Pythonic repos
+### Pythonic repos
 &emsp;
 [![Maze generator over an image](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=maze_generator&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/maze_generator)
 [![Minesweeper bot](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=minesweeper_bot&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/minesweeper_bot)
 
-## Other personal code adventures
+### Other personal code adventures
 &emsp;
 [![Box based cli](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=bbclit&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/bbclit)
 [![Text editor](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=worsevi&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/worsevi)
 
-## My dotfiles
+### My dotfiles
 &emsp;
 [![Dotfiles](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=dotfiles&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/dotfiles)
 
