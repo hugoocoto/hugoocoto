@@ -78,7 +78,7 @@
 
 ## Some intresting proyects
 &emsp;
-[![Terminal colors and styles](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/termstuff)
+[![Terminal colors and styles](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=termstuff&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/termstuff)
 [![Fetching tool](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=hfetch&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/hfetch)
 
 ## Pythonic repos
