@@ -74,12 +74,11 @@
 ## Take a look
 &emsp;
 [![Tetris](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=tetris&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/tetris)
-[![WorseVi](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=worsevi&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/worsevi)
+[![Memory allocator](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=hallocator&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/hallocator)
 
 ## Some intresting proyects
 &emsp;
 [![Terminal colors and styles](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/termstuff)
-[![Tetris](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=tetris&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/tetris)
 [![Fetching tool](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=hfetch&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/hfetch)
 
 ## Pythonic repos
@@ -89,8 +88,7 @@
 
 ## Other personal code adventures
 &emsp;
-[![Box based cli](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=bblit&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/bbclit)
-[![Memory allocator](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=hallocator&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/hallocator)
+[![Box based cli](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=bbclit&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/bbclit)
 [![Text editor](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=worsevi&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/worsevi)
 
 ## My dotfiles
