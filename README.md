@@ -76,6 +76,23 @@
 [![Tetris](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=tetris&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/tetris)
 [![WorseVi](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=worsevi&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/worsevi)
 
+## Some intresting proyects
+&emsp;
+[![Terminal colors and styles](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/termstuff)
+[![Tetris](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=tetris&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/tetris)
+[![Fetching tool](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=hfetch&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/hfetch)
+
+## Pythonic repos
+&emsp;
+[![Maze generator over an image](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=maze_generator&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/maze_generator)
+[![Minesweeper bot](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=minesweeper_bot&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/minesweeper_bot)
+
+## Other personal code adventures
+&emsp;
+[![Box based cli](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=bblit&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/bbclit)
+[![Memory allocator](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=hallocator&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/hallocator)
+[![Text editor](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=worsevi&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/worsevi)
+
 ## My dotfiles
 &emsp;
 [![Dotfiles](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=dotfiles&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/dotfiles)
