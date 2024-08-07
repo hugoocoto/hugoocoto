@@ -93,11 +93,6 @@
 [![Maze generator over an image](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=maze_generator&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/maze_generator)
 [![Minesweeper bot](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=minesweeper_bot&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/minesweeper_bot)
 
-### Other personal code adventures
-&emsp;
-[![Box based cli](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=bbclit&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/bbclit)
-[![Text editor](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=worsevi&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/worsevi)
-
 ### My dotfiles
 &emsp;
 [![Dotfiles](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=dotfiles&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/dotfiles)
