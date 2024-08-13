@@ -81,12 +81,14 @@
 ### Take a look
 &emsp;
 [![Tetris](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=tetris&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/tetris)
-[![Memory allocator](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=hallocator&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/hallocator)
+[![Nhotepad](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=nhotepad&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/nhotepad)
 
 ### Some intresting proyects
 &emsp;
 [![Terminal colors and styles](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=termstuff&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/termstuff)
 [![Fetching tool](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=hfetch&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/hfetch)
+[![Memory allocator](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=hallocator&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/hallocator)
+[![Hlibc](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=hlibc&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/hlibc)
 
 ### Pythonic repos
 &emsp;
