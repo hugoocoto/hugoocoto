@@ -75,8 +75,7 @@
 
 ### My current activity
 &emsp;
-<img src="https://wakatime.com/share/@2a7b4567-ab1f-4fb2-98ff-2b3fdbf94654/80f8cb69-7023-40c8-81b3-9a6520a586c5.png" alt="Wakatime" width=40%>
-<img src="https://wakatime.com/share/@2a7b4567-ab1f-4fb2-98ff-2b3fdbf94654/043f3a8a-8e7f-4226-9d55-a3795c7329ec.svg" alt="Wakatime" width=40%>
+<img src="https://wakatime.com/share/@2a7b4567-ab1f-4fb2-98ff-2b3fdbf94654/80f8cb69-7023-40c8-81b3-9a6520a586c5.png" alt="Wakatime" width=80%>
 
 ### Take a look
 &emsp;
