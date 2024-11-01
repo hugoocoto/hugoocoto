@@ -87,7 +87,7 @@
 [![Terminal colors and styles](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=termstuff&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/termstuff)
 [![Fetching tool](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=hfetch&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/hfetch)
 [![Memory allocator](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=memallocator&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/memallocator)
-[![Hlibc](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=hlibc&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/hlibc)
+[![Vshkh](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=vshkh&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/vshkh)
 
 ### Pythonic repos
 &emsp;
