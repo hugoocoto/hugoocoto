@@ -96,5 +96,6 @@
 ### My dotfiles
 &emsp;
 [![Dotfiles](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=dotfiles&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/dotfiles)
+[![Nvim](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=nvim&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/nvim)
 
 
