@@ -1,5 +1,3 @@
-
-
 <img src="https://raw.githubusercontent.com/hugocotoflorez/hugocotoflorez/main/Black Modern Vlogger YouTube Banner.png" align="center" alt="Hugo Coto header image">
 
 -------------------
@@ -13,9 +11,6 @@
 
 ### Me around the web
 &emsp;
-<a href="https://www.instagram.com/hugoocoto/">
-    ![Instagram: hugoocoto](https://img.shields.io/badge/-hugoocoto-000?&logo=Instagram)
-</a>
 <a href="https://github.com/hugocotoflorez">
     ![GitHub: hugocotoflorez](https://img.shields.io/github/followers/hugocotoflorez?label=follow&style=social)
 </a>
