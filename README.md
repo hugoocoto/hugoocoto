@@ -63,30 +63,11 @@
 &emsp;
 
 ### My GitHub Stats
-&emsp;
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hugocotoflorez&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugocotoflorez&layout=compact&theme=dark&show_icons=true)
 
 ### My current activity
-&emsp;
 <img src="https://wakatime.com/share/@2a7b4567-ab1f-4fb2-98ff-2b3fdbf94654/80f8cb69-7023-40c8-81b3-9a6520a586c5.png" alt="Wakatime" width=80%>
-
-### Take a look
-&emsp;
-[![Tetris](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=tetris&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/tetris)
-[![Nhotepad](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=nhotepad&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/nhotepad)
-
-### Some intresting proyects
-&emsp;
-[![Terminal colors and styles](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=termstuff&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/termstuff)
-[![Fetching tool](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=hfetch&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/hfetch)
-[![Memory allocator](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=memallocator&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/memallocator)
-[![Vshkh](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=vshkh&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/vshkh)
-
-### Pythonic repos
-&emsp;
-[![Maze generator over an image](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=maze_generator&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/maze_generator)
-[![Minesweeper bot](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=minesweeper_bot&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/minesweeper_bot)
 
 ### My dotfiles
 &emsp;
