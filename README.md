@@ -6,6 +6,7 @@
 - Informatics Engineering at USC, Spain
 - Low level stuff lover
 - C programmer
+- ***I do not use AI***
 
 &emsp;
 
