@@ -8,6 +8,9 @@
 - C programmer
 - ***I do not use AI***
 
+> 2024 was funny! Meanwhile 2024 
+[![wakatime](https://wakatime.com/badge/user/2a7b4567-ab1f-4fb2-98ff-2b3fdbf94654.svg)](https://wakatime.com/@2a7b4567-ab1f-4fb2-98ff-2b3fdbf94654)
+
 &emsp;
 
 ### Me around the web
