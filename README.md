@@ -1,6 +1,7 @@
 ## About
 
-- Informatics Engineering at USC, Spain
+ *Informatics Engineering at USC, Spain*
+
 - Low level lover
 - C programmer
 - I want to learn js to trashtalk about it
@@ -11,7 +12,7 @@
 
 ## Personal aspiration
 
-- Every tool used in daily workflow is written by myself
+- Every tool used in daily workflow was written by myself
 
 ## My dotfiles
 &emsp;
