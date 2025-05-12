@@ -18,7 +18,7 @@ like a strong programmer as I never missed a single semicolon.
 
 ## Personal aspiration
 
-- Every tool used in daily workflow was written by myself
+- I want to base my daily workflow in tools written by myself
 
 ## My dotfiles &emsp;
 [![Dotfiles](https://github-readme-stats.vercel.app/api/pin?username=hugocotoflorez&repo=dotfiles&theme=dark&show_icons=true)](https://github.com/hugocotoflorez/dotfiles)
