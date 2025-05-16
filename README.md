@@ -12,7 +12,7 @@ How much time I overpressed j and k in the last year: [![wakatime](https://wakat
 
 ## Experience
 
-Full-time senior developer and group leader at my father's coutch (2021 -
+Full-time senior developer and group leader at my parent's coutch (2021 -
 now). Used to program while watching TV and / or talking with people so I feel
 like a strong programmer as I never missed a single semicolon.
 
