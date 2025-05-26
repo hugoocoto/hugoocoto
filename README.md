@@ -2,8 +2,8 @@
 
  *Informatics Engineering at USC, Spain*
 
-> Everything should be made as simple as possible, but not simper. ~ Albert
-> Einstein
+> Everything should be made as simple as possible, but not simper.
+> -- <cite> Albert Einstein </cite>
 
 - Low level lover
 - C programmer
