@@ -1,3 +1,5 @@
+> ***Good programming is about taste and simplicity.***
+
 ## About
 
  *Informatics Engineering at USC, Spain*
