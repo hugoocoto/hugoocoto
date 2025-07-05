@@ -6,7 +6,7 @@
 
 - Recreational programmer
 - Low level lover 
-- Smart, funny and handsome (I'm the guy at the picture)
+- I'm the guy at the picture
 - wanting to learn js to trashtalk about it
 - sofa + laptop user
 
