@@ -2,10 +2,11 @@
 
 ## About
 
- *Informatics Engineering at USC, Spain*
+ *Informatics Engineering Student at USC, Spain*
 
 - Recreational programmer
 - Low level lover 
+- Smart, funny and handsome (I'm the guy at the picture)
 - wanting to learn js to trashtalk about it
 - sofa + laptop user
 
