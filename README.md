@@ -24,7 +24,3 @@ I program because I enjoy it, since if money or fame were my motivation, I would
 
 
 > Most developers I know write code for money or fame. They serve corporations or burn hard at startups. There is nothing wrong with it, but it seems that programming for fun is fading away in my peer group. It’s a shame. -- Vladimir Terekhov
-
-## My dotfiles 
-&emsp;
-[Dotfiles](https://github.com/hugocotoflorez/dotfiles)
