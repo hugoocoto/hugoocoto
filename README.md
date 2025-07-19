@@ -5,7 +5,6 @@
 - Programming to have fun
 - Student in my non-free time
 - Low level lover 
-- I'm the guy at the picture
 - I want to learn js to trashtalk about it
 - sofa + laptop user
 - Software should be free | FSF supporter
