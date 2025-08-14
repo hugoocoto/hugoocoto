@@ -1,3 +1,4 @@
 *Informatics Engineering Student at USC, Spain*
 
-Programming to have fun, student in my non-free time.
+* Profitless full time programmer
+* Student in my non-free time.
