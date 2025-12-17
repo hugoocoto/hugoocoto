@@ -2,5 +2,5 @@
 
 * Profitless full time programmer.
 * Student in my non-free time.
-* I build unstable useless tools.
+* [codeberg (more projects)](https://codeberg.org/hugocoto)
 * [hugocoto.com](https://hugocoto.com)
