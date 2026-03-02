@@ -4,3 +4,5 @@
 * Profitless full time programmer.
 * Student in my non-free time.
 * [hugocoto.com](https://hugocoto.com)
+
+* [HackUDC 2026 Grafana winner](https://youtu.be/eIfFVLgtsAA)
