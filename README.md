@@ -5,4 +5,4 @@
 * Student in my non-free time.
 * [hugocoto.com](https://hugocoto.com)
 
-* [HackUDC 2026 Grafana winner](https://youtu.be/eIfFVLgtsAA)
+* [HackUDC 2026 Grafana winner](https://github.com/xabiernovoa/hackUDC)
