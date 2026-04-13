@@ -4,6 +4,6 @@
 * Student in my non-free time.
 ---
 Contact:
-* [matrix](https://matrix.to/#/@hugocoto:matrix.org) (prefered)
+* [matrix](https://matrix.to/#/@hugocoto:matrix.org) (preferred)
 * [email](mailto:me@hugocoto.com)
 ---
